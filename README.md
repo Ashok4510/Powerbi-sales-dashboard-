@@ -19,4 +19,5 @@ Insights:
 - Built interactive dashboard
 
 Dashboard Preview:
-![Dashboard](Bi Dashboard.png)
+Bi Dashboard.png
+
